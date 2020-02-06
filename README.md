@@ -9,4 +9,4 @@ I am the professor of the class. I love UX!
 
 ## UX Journal
 
-This is my first journal entry
+[This is my first journal entry](journal-01)
